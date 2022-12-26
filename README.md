@@ -7,7 +7,7 @@
 * Abeer alshboul
 * Dina alshboul
 
-### [PR1](https://github.com/AbdallahMosa/drf-auth/pull/1)
+### [PR1](https://github.com/abeershboul/cookie-stand-api)
 ### heroku link : https://cookeis.herokuapp.com/admin
 user name : abeer
 password : abeer
